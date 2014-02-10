@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RecordVideo/Activity1.cs">
+    <Files>
+      <File FileName="RecordVideo/Activity1.cs" Line="55" Column="13" />
+      <File FileName="RecordVideo/Resources/layout/Main.axml" Line="25" Column="16" />
+      <File FileName="RecordVideo/Properties/AndroidManifest.xml" Line="7" Column="68" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RecordVideo AndroidDeviceId-Debug="014696590500901D" />
+</Properties>
