@@ -21,7 +21,7 @@ namespace RecordVideo
 
             SetContentView (Resource.Layout.Main);
             
-            string path = Android.OS.Environment.ExternalStorageDirectory.Name + "/test.mp4";
+            string path = Android.OS.Environment.ExternalStorageDirectory.AbsolutePath + "/test.mp4";
 
             var record = FindViewById<Button> (Resource.Id.Record);
             var stop = FindViewById<Button> (Resource.Id.Stop);
